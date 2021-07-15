@@ -11,8 +11,9 @@ int Z(int n, int k)
 
 int main()
 {
-    int t, n;
-    cin >> n;
+    int t;
+    long long n;
+    cin >> t;
 
     for (int i = 0; i < t; i++)
     {
